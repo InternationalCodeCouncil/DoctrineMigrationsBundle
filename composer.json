@@ -1,5 +1,5 @@
 {
-    "name": "InternationalCodeCouncil/symfony-migrations-bundle",
+    "name": "doctrine/doctrine-migrations-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DoctrineMigrationsBundle",
     "license": "MIT",
