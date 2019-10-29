@@ -1,0 +1,23 @@
+{
+    "name": "InternationalCodeCouncil/symfony-migrations-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony DoctrineMigrationsBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ICC",
+            "homepage": "http://www.iccsafe.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "~3.0",
+        "doctrine/doctrine-bundle": "~1.0",
+        "doctrine/migrations": "~1.0@dev"
+    },
+    "autoload": {
+        "psr-0": { "Doctrine\\Bundle\\MigrationsBundle": "" }
+    },
+    "target-dir": "Doctrine/Bundle/MigrationsBundle",
+    "minimum-stability": "dev"
+}

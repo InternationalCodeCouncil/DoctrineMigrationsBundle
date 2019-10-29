@@ -1,0 +1,7 @@
+composer.lock
+
+# PHPStorm
+.idea/
+
+# MacOS
+.DS_Store
